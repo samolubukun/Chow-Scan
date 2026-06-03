@@ -168,8 +168,8 @@ class ScanLabelScreen extends StatelessWidget {
         const SizedBox(height: 24),
 
         // 2. Alert Droplist: Excessive & Limited Quantities
-        _buildNutrientAlertList(context, 'Excessive Quantity âš ï¸', excessive, AppColors.error),
-        _buildNutrientAlertList(context, 'Limited Quantity âš ï¸', limited, AppColors.warning),
+        _buildNutrientAlertList(context, 'Excessive Quantity ⚠️', excessive, AppColors.error),
+        _buildNutrientAlertList(context, 'Limited Quantity ⚠️', limited, AppColors.warning),
 
         // 3. Remedies & Recommendations
         _buildRemediesList(context, info.remedies),

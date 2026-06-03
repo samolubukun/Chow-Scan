@@ -1,4 +1,4 @@
-﻿import 'package:flutter/material.dart';
+import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter_animate/flutter_animate.dart';
 import '../../theme/app_colors.dart';
@@ -114,7 +114,7 @@ class _OnboardingScreenState extends State<OnboardingScreen> {
           const Wordmark(size: 44),
           const SizedBox(height: 12),
           Text(
-            'Your intelligent nutrition companion.\nScan, analyze, and track your food â€” all offline.',
+            'Your intelligent nutrition companion.\nScan, analyze, and track your food - all offline.',
             textAlign: TextAlign.center,
             style: AppTextStyles.bodyLarge.copyWith(color: colors.textSecondary),
           ),
