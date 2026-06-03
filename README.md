@@ -18,7 +18,7 @@
 
 ## Description
 
-ChowScan is an offline AI-powered food analysis and nutrition tracking application. It utilizes Google's Gemma model to execute full visual plate scans, nutrition label scans, and natural language descriptions entirely on-device, offering a private and self-contained nutrition tracking ecosystem.
+ChowScan is an offline AI-powered food analysis and nutrition tracking mobile application. It utilizes Google's Gemma model to execute full visual plate scans, nutrition label scans, and natural language descriptions entirely on-device, offering a private and self-contained nutrition tracking ecosystem.
 
 ## On-Device AI Engine (Gemma)
 
