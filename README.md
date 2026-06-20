@@ -45,6 +45,10 @@ ChowScan is powered entirely by Google's **Gemma 4 E2B IT (LiteRT-LM)** model, w
 - **Reactive Theming System** - fully supports system-wide and manual light/dark mode toggles across all pages, layouts, and custom cards.
 - **Offline Security** - zero data leaves the user's phone, preserving complete privacy.
 
+## Demo
+
+https://github.com/user-attachments/assets/e37d600c-c75f-4843-a709-17f506561154
+
 ## Tech Stack
 
 - **Flutter** - Cross-platform application framework for crafting high-performance user interfaces.
